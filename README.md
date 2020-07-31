@@ -1,12 +1,12 @@
 <h3 align="center">
-  <img alt="Github-Explorer" src="https://github.com/gianferreira/gitExplorer-frontend/blob/master/readme-logo.svg" width="200px"/>
+  <img alt="Github-Explorer" src="https://github.com/gianferreira/gitExplorer-frontend/blob/master/readme-logo.svg" height="85px"/>
 </h3>
 
 <h1 align="center">
   Github Explorer
 </h1>
 
-<p align="center">Front-end em ReactJS da aplicação Github Explorer.</p>
+<p align="center">Front-end em ReactJS da aplicação Github Explorer</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/gitExplorer-frontend">
@@ -29,7 +29,7 @@
 
 ## Sobre:
 
-Aplicação web desenvolvida em ReactJS que realiza a busca por repositórios do Github e a partir de cada repositório armazenado, é possível acessar todas as suas issues abertas. A aplicação consome a API pública do <a href="https://api.github.com/"><b> Github </b></a>.
+Aplicação web desenvolvida em ReactJS que realiza a busca por repositórios do Github e a partir de cada repositório armazenado, é possível acessar todas as suas issues abertas. A aplicação consome a API pública do <a href="https://api.github.com/"><b>Github</b></a>.
 
 ## Tecnologias utilizadas:
 
@@ -73,8 +73,8 @@ yarn start
 </p>
 
 <blockquote align="center">
-  Este projeto foi desenvolvimento durante o
+  Este projeto foi desenvolvido durante o
     <a href="https://rocketseat.com.br/gostack">
-      Bootcamp da RocketSeat
+      Bootcamp da Rocketseat
     </a>
 </blockquote>
